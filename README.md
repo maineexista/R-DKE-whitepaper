@@ -20,7 +20,7 @@ This framework outlines:
 [Click here to view the whitepaper (PDF)](Whitepaper.pdf)
 
 🧠 **Markdown Version**  
-[whitepaper.md](whitepaper.md)
+[whitepaper.md](Whitepaper.md)
 
 ---
 
