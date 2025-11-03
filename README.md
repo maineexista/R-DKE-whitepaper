@@ -17,7 +17,7 @@ This framework outlines:
 ## Whitepaper
 
 📄 **Full Whitepaper**  
-[Click here to view the whitepaper (PDF)](whitepaper.pdf)
+[Click here to view the whitepaper (PDF)](Whitepaper.pdf)
 
 🧠 **Markdown Version**  
 [whitepaper.md](whitepaper.md)
