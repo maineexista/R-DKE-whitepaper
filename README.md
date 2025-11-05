@@ -36,6 +36,14 @@ Future work will explore prototypes, evaluation metrics, and safety systems.
 
 ---
 
+| Version        | Description                          | Link                              |
+| -------------- | ------------------------------------ | --------------------------------- |
+| R-DKE v1.0     | Base recursive deep knowledge engine | `/v1.0/Whitepaper.md`             |
+| **R-DKE v2.0** | Physarum-inspired adaptive reasoning | `/v2.0-Physarum/Whitepaper-v2.md` |
+
+
+---
+
 ## Citation
 
 Gherasim, M. (2025). Recursive Deep Knowledge Engine (R-DKE).
