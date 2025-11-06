@@ -1,4 +1,5 @@
 R-DKE v2.0 — Physarum-Inspired Recursive Deep Knowledge Engine
+
 A biologically-inspired architecture for continuous self-evolving AI knowledge systems
 
 Author: Marius Gherasim
