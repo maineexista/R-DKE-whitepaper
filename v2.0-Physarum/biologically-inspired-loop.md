@@ -65,6 +65,7 @@ for node in knowledge_graph:
             decay(path)  # remove weak or contradictory connections
 
 update_truth_graph()
+```
 
 This process creates adaptive knowledge flow,
 where information circulates like nutrient plasma through a living organism.
