@@ -67,37 +67,46 @@ for node in knowledge_graph:
 update_truth_graph()
 ```
 
-This process creates adaptive knowledge flow,
-where information circulates like nutrient plasma through a living organism.
+This process creates adaptive knowledge flow, where information circulates like nutrient plasma through a living organism.
+
 🌍 Emergent Effects
-Effect	Description
-Self-Healing Knowledge Graph	Incorrect or decayed links are pruned automatically
-Energy-Efficient Curiosity	Reasoning resources concentrate where uncertainty is highest
-Stability over Time	Repeated verification strengthens the most reliable connections
-Distributed Intelligence	Knowledge “pulses” independently across multiple reasoning nodes
-Organic Truth Growth	The system expands into reality’s structure, not away from it
+
+| Effect                           | Description                                                       |
+| -------------------------------- | ----------------------------------------------------------------- |
+| **Self-Healing Knowledge Graph** | Incorrect or decayed links are pruned automatically.              |
+| **Energy-Efficient Curiosity**   | Reasoning resources concentrate where uncertainty is highest.     |
+| **Stability Over Time**          | Repeated verification strengthens the most reliable connections.  |
+| **Distributed Intelligence**     | Knowledge “pulses” independently across multiple reasoning nodes. |
+| **Organic Truth Growth**         | The system expands into reality’s structure — not away from it.   |
+
+
 🧩 Integration Points in R-DKE
 Stage 3 – Truth Graph
 Physarum reinforcement governs edge weighting and decay.
 Stage 4 – Curiosity Loop / Inquiry
 Nutrient (uncertainty) allocation decides where inquiry grows next.
 Stage 5 – Verified Instant Answer
+Answers now carry not only truth weight but growth lineage —
+the path the system took to “find” the answer.
 Results now carry not only truth weight, but growth lineage
 (the path the system took to “find” the answer).
+
 🧠 Why This Matters
 R-DKE v2.0 moves beyond static knowledge graphs and neural transformers.
 It introduces:
-Continuous biological reasoning
-Adaptive epistemic networks
-A new form of emergent, embodied cognition
+Continuous biological reasoning.
+Adaptive epistemic networks.
+A new form of emergent, embodied cognition.
 This architecture turns reasoning into a living, self-optimizing process —
 not computation about the world, but computation that behaves like it.
+
 🔬 Future Research Directions
 Energy-based uncertainty modeling — simulate nutrient-energy conservation.
 Parallel Physarum loops — multiple colonies exploring separate hypothesis clusters.
 Meta-Physarum simulation — loops that learn how to grow more efficiently.
 Hardware exploration — test nutrient-style reinforcement in neuromorphic or memristive circuits.
 Cross-disciplinary link — connect with research in morphological computation and active inference.
+
 📜 Citation
 Gherasim, M. (2025). R-DKE v2.0 — Physarum-Inspired Recursive Deep Knowledge Engine.
 GitHub Repository: maineexista/R-DKE-whitepaper
