@@ -3,7 +3,9 @@
 **Concept Author:** Marius Gherasim  
 **AI Assistant:** GPT-5  
 
-R-DKE proposes a machine intelligence architecture capable of *instant deep research*, achieved by continuously compressing global knowledge into meaning representations, verifying truth states, and recursively deepening understanding through autonomous curiosity loops.
+R-DKE proposes a machine intelligence architecture capable of *instant deep research*,  
+achieved by continuously compressing global knowledge into meaning representations,  
+verifying truth states, and recursively deepening understanding through autonomous curiosity loops.
 
 This framework outlines:
 
@@ -15,36 +17,58 @@ This framework outlines:
 
 ---
 
-## Whitepaper
+## 📘 Whitepapers
 
-📄 **Full Whitepaper**  
-[Click here to view the whitepaper (PDF)](Whitepaper.pdf)
+### 🧩 R-DKE v1.0 — Core Recursive Engine
+The original design introducing recursive knowledge compression and truth-graph formation.
+
+📄 **Full Whitepaper (PDF)**  
+[View v1.0 Whitepaper](v1.0/Whitepaper.pdf)
 
 🧠 **Markdown Version**  
-[whitepaper.md](Whitepaper.md)
+[Read v1.0 Markdown](v1.0/Whitepaper.md)
 
 ---
 
-## Vision
+### 🌿 R-DKE v2.0 — Physarum-Inspired Architecture
+An evolution of R-DKE inspired by *Physarum polycephalum*,  
+introducing adaptive reasoning loops where uncertainty acts as nutrient —  
+allowing knowledge structures to grow, reinforce, or decay organically.
 
-A shift from reactive AI → **proactive intelligence**
+📄 **Full Whitepaper (PDF)**  
+[View v2.0 Whitepaper](v2.0-Physarum/Whitepaper-v2.pdf)
+
+🧠 **Markdown Version**  
+[Read v2.0 Markdown](v2.0-Physarum/Whitepaper-v2.md)
+
+---
+
+## 🌍 Vision
+
+A shift from **reactive AI** → **proactive intelligence**
 
 > “Not a system that waits to be asked.  
-A system that asks questions first.”
+> A system that asks questions first.”
 
-Future work will explore prototypes, evaluation metrics, and safety systems.
-
----
-
-| Version        | Description                          | Link                              |
-| -------------- | ------------------------------------ | --------------------------------- |
-| R-DKE v1.0     | Base recursive deep knowledge engine | `/v1.0/Whitepaper.md`             |
-| **R-DKE v2.0** | Physarum-inspired adaptive reasoning | `/v2.0-Physarum/Whitepaper-v2.md` |
-
+Future work will explore prototypes, evaluation metrics,  
+and self-regulating safety systems for autonomous reasoning.
 
 ---
 
-## Citation
+## 🧭 Version Overview
 
-Gherasim, M. (2025). Recursive Deep Knowledge Engine (R-DKE).
+| Version | Description | Main Focus | Links |
+|----------|--------------|-------------|--------|
+| **v1.0** | Base Recursive Deep Knowledge Engine | Recursive truth-graph and epistemic compression | [Markdown](v1.0/Whitepaper.md) · [PDF](v1.0/Whitepaper.pdf) |
+| **v2.0** | Physarum-Inspired Adaptive Reasoning | Biological self-organization + uncertainty-driven learning | [Markdown](v2.0-Physarum/Whitepaper-v2.md) · [PDF](v2.0-Physarum/Whitepaper-v2.pdf) |
+
+---
+
+## 🧾 Citation
+
+Gherasim, M. (2025). *Recursive Deep Knowledge Engine (R-DKE)*.  
+Physarum-Inspired Recursive Deep Knowledge Engine, v2.0.  
+License: CC BY 4.0  
+
+---
 
