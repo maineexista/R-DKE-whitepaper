@@ -95,7 +95,7 @@ This experiment invites exploration, experimentation, and conceptual extension.
   ├── requirements.txt
   ├── README.md
   └── LICENSE
-Generated files like out.gif and truth_graph.json should not be committed.
+
 🔗 Related Work
 Full R-DKE v2.0 whitepaper:
 https://github.com/maineexista/R-DKE-whitepaper
