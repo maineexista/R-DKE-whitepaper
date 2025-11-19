@@ -1,7 +1,6 @@
 # Recursive Deep Knowledge Engine (R-DKE)
 
-**Author:** Marius Gherasim — Concept Originator  
-**AI Research Assistant:** GPT-5  
+**Author:** Marius Gherasim — Concept Originator 
 
 ---
 
@@ -167,4 +166,4 @@ It bridges current reactive AI with future reasoning architectures and offers a 
 Gherasim, M. (2025). Recursive Deep Knowledge Engine (R-DKE).
 
 
-**Concept by Marius Gherasim. Developed with AI assistance (GPT-5).**
+**Concept by Marius Gherasim.**
