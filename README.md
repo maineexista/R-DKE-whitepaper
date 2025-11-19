@@ -1,7 +1,6 @@
 # Recursive Deep Knowledge Engine (R-DKE)
 
-**Concept Author:** Marius Gherasim  
-**AI Assistant:** GPT-5  
+**Concept Author:** Marius Gherasim 
 
 R-DKE proposes a machine intelligence architecture capable of *instant deep research*,  
 achieved by continuously compressing global knowledge into meaning representations,  
