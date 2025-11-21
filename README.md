@@ -1,6 +1,6 @@
 # Recursive Deep Knowledge Engine (R-DKE)
 
-**Concept Author:** Marius Gherasim 
+**Concept Author:** Codrut-Marius Gherasim 
 
 R-DKE proposes a machine intelligence architecture capable of *instant deep research*,  
 achieved by continuously compressing global knowledge into meaning representations,  
@@ -13,6 +13,22 @@ This framework outlines:
 ✅ Autonomous self-questioning + exploration cycle  
 ✅ Pre-computed reasoning for millisecond answers  
 ✅ Transparent evidence + counter-view synthesis  
+
+---
+
+## 🔬 Experiments
+
+Try the interactive simulations:
+
+- **Truth Veins vs Noise**  
+  Reinforcement of true vs contradictory pathways.
+
+- **Living Question Explorer**  
+  Autonomous curiosity loop driven by uncertainty.
+
+- **Physarum-Inspired Reasoning Loop**  
+  Visual ASCII simulation of Physarum-like network growth.
+
 
 ---
 
