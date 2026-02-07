@@ -227,4 +227,4 @@ A knowledge system that prioritizes truth, heals itself, and gets faster by forg
 
 ---
 
-*Built on the R-DKE Whitepaper by Marius Gherasim (2025)*
+*Built on the R-DKE Whitepaper by Codrut-Marius Gherasim (2026)*
