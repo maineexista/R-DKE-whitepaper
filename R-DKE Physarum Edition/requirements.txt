@@ -1,0 +1,8 @@
+# R-DKE Dependencies
+# No external dependencies required - pure Python implementation
+# 
+# Optional dependencies for enhanced functionality:
+# numpy>=1.20.0        # For optimized numerical operations
+# networkx>=2.6        # For advanced graph algorithms
+# matplotlib>=3.4      # For visualization
+# rich>=10.0           # For better console output

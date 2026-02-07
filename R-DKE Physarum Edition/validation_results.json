@@ -1,0 +1,81 @@
+{
+  "experiment_1": {
+    "success": true,
+    "initial_blue_flow": 97.590361,
+    "final_blue_flow": 100.0,
+    "initial_conductivities": {
+      "Green": 0.15,
+      "Blue": 0.95,
+      "Red": 0.15
+    },
+    "final_conductivities": {
+      "Green": 0,
+      "Blue": 0.085227,
+      "Red": 0
+    },
+    "graph_stats": {
+      "atoms_ingested": 3,
+      "edges_created": 3,
+      "edges_pruned": 2,
+      "queries_processed": 2,
+      "reinforcements": 0,
+      "nutrient_injections": 1,
+      "total_nodes": 4,
+      "total_edges": 1,
+      "alive_edges": 1,
+      "cycle_count": 100,
+      "avg_conductivity": 0.085227,
+      "max_conductivity": 0.085227
+    }
+  },
+  "experiment_2": {
+    "success": true,
+    "gap_detected": true,
+    "recursion_occurred": true,
+    "path_created": true,
+    "permanent_storage": false,
+    "new_edges": 1,
+    "graph_stats": {
+      "atoms_ingested": 7,
+      "edges_created": 7,
+      "edges_pruned": 0,
+      "queries_processed": 3,
+      "reinforcements": 28,
+      "nutrient_injections": 0,
+      "total_nodes": 8,
+      "total_edges": 7,
+      "alive_edges": 7,
+      "cycle_count": 0,
+      "avg_conductivity": 1.634286,
+      "max_conductivity": 2.06
+    }
+  },
+  "experiment_3": {
+    "success": true,
+    "initial_search_space": 1010,
+    "final_search_space": 10,
+    "search_space_reduction_percent": 99.009901,
+    "initial_latency_ms": 0.004768,
+    "final_latency_ms": 0.002861,
+    "gold_edges_preserved": 10,
+    "noise_edges_remaining": 0,
+    "noise_reduction_percent": 100.0,
+    "total_decay_cycles": 250,
+    "graph_stats": {
+      "atoms_ingested": 1010,
+      "edges_created": 1010,
+      "edges_pruned": 1000,
+      "queries_processed": 521,
+      "reinforcements": 0,
+      "nutrient_injections": 0,
+      "total_nodes": 2019,
+      "total_edges": 10,
+      "alive_edges": 10,
+      "cycle_count": 250,
+      "avg_conductivity": 0.516291,
+      "max_conductivity": 0.516291
+    }
+  },
+  "timestamp": "2026-02-05T18:50:48.733230",
+  "total_passed": 3
+}
