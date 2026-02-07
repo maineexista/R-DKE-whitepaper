@@ -212,7 +212,7 @@ Not yet - in-memory proof-of-concept.
 
 ## 📄 License
 
-CC0 — Public Domain
+This project is licensed under the [MIT License](LICENSE).
 
 ---
 
